@@ -14,15 +14,15 @@ The result is a practical analytics application that connects **predictive model
 
 ### 01. Forecast Dashboard
 
-![Forecast Dashboard](.docs/screenshots/01_dashboard.jpeg)
+![Forecast Dashboard](./docs/screenshots/01_dashboard.jpeg)
 
 ### 02. What-If Scenario Analysis
 
-![What-If Analysis](.docs/screenshots/02_what_if_analysis.jpeg)
+![What-If Analysis](./docs/screenshots/02_what_if_analysis.jpeg)
 
 ### 03. Model Performance
 
-![Model Performance](.docs/screenshots/03_model_performance.jpeg)
+![Model Performance](./docs/screenshots/03_model_performance.jpeg)
 
 
 ---
