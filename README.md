@@ -9,6 +9,21 @@ The project combines **Python, machine learning, time-series feature engineering
 Beyond simply predicting future sales, the solution provides an interactive **What-If analysis layer**, allowing decision-makers to test potential changes in sales growth and immediately see their projected financial impact.
 
 The result is a practical analytics application that connects **predictive modelling with business decision-making**.
+---
+## 📊 Application Screenshots
+
+### 01. Forecast Dashboard
+
+![Forecast Dashboard](01_dashboard.jpeg)
+
+### 02. What-If Scenario Analysis
+
+![What-If Analysis](02_what_if_analysis.jpeg)
+
+### 03. Model Performance
+
+![Model Performance](03_model_performance.jpeg)
+
 
 ---
 
@@ -234,7 +249,9 @@ Forecasting Drivers
 The application visualizes the most important features used by the model.
 📁 Project Structure
 store-sales-forecasting-what-if/
-│
+│01_dashboard.jpeg
+|02_what_if_analysis.jpeg
+|03_model_performance.jpeg
 ├── README.md
 ├── app.py
 ├── forecasting_project.py
