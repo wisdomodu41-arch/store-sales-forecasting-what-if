@@ -247,21 +247,24 @@ Predicted sales
 Model performance metrics
 Forecasting Drivers
 The application visualizes the most important features used by the model.
-📁 Project Structure
 store-sales-forecasting-what-if/
-│01_dashboard.jpeg
-|02_what_if_analysis.jpeg
-|03_model_performance.jpeg
-├── README.md
-├── app.py
-├── forecasting_project.py
-├── requirements.txt
-│
-├── sales_forecast.csv
-├── forecast_validation.csv
-├── forecast_metrics.csv
-├── feature_importance.csv
-└── daily_sales_analysis.csv
+├── app/
+│   ├── app.py
+│   └── requirements.txt
+├── data/
+│   ├── daily_sales_analysis.csv
+│   ├── feature_importance.csv
+│   ├── forecast_metrics.csv
+│   ├── forecast_validation.csv
+│   └── sales_forecast.csv
+├── docs/
+│   └── screenshots/
+│       ├── 01_dashboard.jpeg
+│       ├── 02_what_if_analysis.jpeg
+│       └── 03_model_performance.jpeg
+├── src/
+│   └── forcasting_project.py
+└── README.md
 Core Files
 forecasting_project.py
 Main forecasting pipeline containing:
